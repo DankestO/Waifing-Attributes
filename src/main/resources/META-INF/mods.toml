@@ -1,0 +1,91 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="${mod_license}"
+
+[[mods]]
+modId="${mod_id}"
+version="${mod_version}"
+displayName="${mod_name}"
+authors="${mod_authors}"
+description='''${mod_description}'''
+
+[[mixins]]
+config="${mod_id}.mixins.json"
+
+[[dependencies.${mod_id}]]
+modId="forge"
+mandatory=true
+versionRange="[47,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.${mod_id}]]
+modId="minecraft"
+mandatory=true
+versionRange="[${minecraft_version},1.21)"
+ordering="NONE"
+side="BOTH"
+
+# Optional dependency: this mod works without it, and uses it when present.
+[[dependencies.${mod_id}]]
+modId="tconstruct"
+mandatory=false
+versionRange="[0,)"
+ordering="AFTER"
+side="BOTH"
+
+# Optional dependency: this mod works without it, and uses it when present.
+[[dependencies.${mod_id}]]
+modId="kaleidoscope_cookery"
+mandatory=false
+versionRange="[0,)"
+ordering="AFTER"
+side="BOTH"
+
+# Optional dependency: this mod works without it, and uses it when present.
+[[dependencies.${mod_id}]]
+modId="apotheosis"
+mandatory=false
+versionRange="[0,)"
+ordering="AFTER"
+side="BOTH"
+
+# Optional dependency: this mod works without it, and uses it when present.
+[[dependencies.${mod_id}]]
+modId="quality_food"
+mandatory=false
+versionRange="[0,)"
+ordering="AFTER"
+side="BOTH"
+
+# Optional dependency: the Fisherman's quality bonus applies to its minigame catches when present.
+[[dependencies.${mod_id}]]
+modId="stardew_fishing"
+mandatory=false
+versionRange="[0,)"
+ordering="AFTER"
+side="BOTH"
+
+# Optional dependency: Mage scroll merging, splitting and Arcane Anvil, and summons excluded from some effects.
+[[dependencies.${mod_id}]]
+modId="irons_spellbooks"
+mandatory=false
+versionRange="[0,)"
+ordering="AFTER"
+side="BOTH"
+
+# Optional dependency: rogue_nightkin 2.0 players are treated as undead by it (regeneration, holy weakness).
+[[dependencies.${mod_id}]]
+modId="consecration"
+mandatory=false
+versionRange="[0,)"
+ordering="AFTER"
+side="BOTH"
+
+# Optional dependency: rarity labels for upgraded items (assets/waifingattributes/tooltips).
+[[dependencies.${mod_id}]]
+modId="obscure_tooltips"
+mandatory=false
+versionRange="[0,)"
+ordering="AFTER"
+side="BOTH"

@@ -1,0 +1,10 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.waifing.waifingattributes.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "waifingattributes.refmap.json",
+  "plugin": "com.waifing.waifingattributes.mixin.WaifingMixinPlugin",
+  "mixins": [ "ItemStackMixin", "PlayerMixin", "tconstruct.ToolStackMixin", "quality_food.UtilsMixin" ],
+  "injectors": { "defaultRequire": 1 }
+}

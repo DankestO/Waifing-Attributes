@@ -1,0 +1,12 @@
+{
+  "priority": 10,
+  "provider": {
+    "type": "obscure_tooltips:translatable",
+    "key": "label.waifingattributes.upgraded_potion"
+  },
+  "filter": {
+    "type": "obscure_tooltips:nbt",
+    "nbt": "{WaifingPotion:{}}",
+    "match_exact": false
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "priority": 15,
+  "style": "waifingattributes:upgrade_copper",
+  "filter": {
+    "type": "obscure_tooltips:any_of",
+    "terms": [
+      {
+        "type": "obscure_tooltips:nbt",
+        "nbt": "{WaifingUpgrades:{Level:1}}",
+        "match_exact": false
+      },
+      {
+        "type": "obscure_tooltips:nbt",
+        "nbt": "{WaifingUpgrades:{Level:2}}",
+        "match_exact": false
+      },
+      {
+        "type": "obscure_tooltips:nbt",
+        "nbt": "{WaifingUpgrades:{Level:3}}",
+        "match_exact": false
+      }
+    ]
+  }
+}

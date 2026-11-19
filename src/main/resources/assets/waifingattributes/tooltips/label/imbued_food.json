@@ -1,0 +1,12 @@
+{
+  "priority": 10,
+  "provider": {
+    "type": "obscure_tooltips:translatable",
+    "key": "label.waifingattributes.imbued_food"
+  },
+  "filter": {
+    "type": "obscure_tooltips:nbt",
+    "nbt": "{WaifingFoodImbue:{}}",
+    "match_exact": false
+  }
+}

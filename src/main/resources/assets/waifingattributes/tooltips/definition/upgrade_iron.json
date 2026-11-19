@@ -1,0 +1,24 @@
+{
+  "priority": 15,
+  "style": "waifingattributes:upgrade_iron",
+  "filter": {
+    "type": "obscure_tooltips:any_of",
+    "terms": [
+      {
+        "type": "obscure_tooltips:nbt",
+        "nbt": "{WaifingUpgrades:{Level:4}}",
+        "match_exact": false
+      },
+      {
+        "type": "obscure_tooltips:nbt",
+        "nbt": "{WaifingUpgrades:{Level:5}}",
+        "match_exact": false
+      },
+      {
+        "type": "obscure_tooltips:nbt",
+        "nbt": "{WaifingUpgrades:{Level:6}}",
+        "match_exact": false
+      }
+    ]
+  }
+}

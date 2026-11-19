@@ -1,0 +1,14 @@
+{
+  "priority": 15,
+  "style": "waifingattributes:upgrade_diamond",
+  "filter": {
+    "type": "obscure_tooltips:any_of",
+    "terms": [
+      {
+        "type": "obscure_tooltips:nbt",
+        "nbt": "{WaifingUpgrades:{Level:10}}",
+        "match_exact": false
+      }
+    ]
+  }
+}

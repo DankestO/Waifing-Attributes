@@ -1,0 +1,329 @@
+{
+  "priority": 16,
+  "style": "waifingattributes:upgrade_netherite",
+  "filter": {
+    "type": "obscure_tooltips:any_of",
+    "terms": [
+      {
+        "type": "obscure_tooltips:nbt",
+        "nbt": "{WaifingUpgrades:{Rebirths:1}}",
+        "match_exact": false
+      },
+      {
+        "type": "obscure_tooltips:nbt",
+        "nbt": "{WaifingUpgrades:{Rebirths:2}}",
+        "match_exact": false
+      },
+      {
+        "type": "obscure_tooltips:nbt",
+        "nbt": "{WaifingUpgrades:{Rebirths:3}}",
+        "match_exact": false
+      },
+      {
+        "type": "obscure_tooltips:nbt",
+        "nbt": "{WaifingUpgrades:{Rebirths:4}}",
+        "match_exact": false
+      },
+      {
+        "type": "obscure_tooltips:nbt",
+        "nbt": "{WaifingUpgrades:{Rebirths:5}}",
+        "match_exact": false
+      },
+      {
+        "type": "obscure_tooltips:nbt",
+        "nbt": "{WaifingUpgrades:{Rebirths:6}}",
+        "match_exact": false
+      },
+      {
+        "type": "obscure_tooltips:nbt",
+        "nbt": "{WaifingUpgrades:{Rebirths:7}}",
+        "match_exact": false
+      },
+      {
+        "type": "obscure_tooltips:nbt",
+        "nbt": "{WaifingUpgrades:{Rebirths:8}}",
+        "match_exact": false
+      },
+      {
+        "type": "obscure_tooltips:nbt",
+        "nbt": "{WaifingUpgrades:{Rebirths:9}}",
+        "match_exact": false
+      },
+      {
+        "type": "obscure_tooltips:nbt",
+        "nbt": "{WaifingUpgrades:{Rebirths:10}}",
+        "match_exact": false
+      },
+      {
+        "type": "obscure_tooltips:nbt",
+        "nbt": "{WaifingUpgrades:{Rebirths:11}}",
+        "match_exact": false
+      },
+      {
+        "type": "obscure_tooltips:nbt",
+        "nbt": "{WaifingUpgrades:{Rebirths:12}}",
+        "match_exact": false
+      },
+      {
+        "type": "obscure_tooltips:nbt",
+        "nbt": "{WaifingUpgrades:{Rebirths:13}}",
+        "match_exact": false
+      },
+      {
+        "type": "obscure_tooltips:nbt",
+        "nbt": "{WaifingUpgrades:{Rebirths:14}}",
+        "match_exact": false
+      },
+      {
+        "type": "obscure_tooltips:nbt",
+        "nbt": "{WaifingUpgrades:{Rebirths:15}}",
+        "match_exact": false
+      },
+      {
+        "type": "obscure_tooltips:nbt",
+        "nbt": "{WaifingUpgrades:{Rebirths:16}}",
+        "match_exact": false
+      },
+      {
+        "type": "obscure_tooltips:nbt",
+        "nbt": "{WaifingUpgrades:{Rebirths:17}}",
+        "match_exact": false
+      },
+      {
+        "type": "obscure_tooltips:nbt",
+        "nbt": "{WaifingUpgrades:{Rebirths:18}}",
+        "match_exact": false
+      },
+      {
+        "type": "obscure_tooltips:nbt",
+        "nbt": "{WaifingUpgrades:{Rebirths:19}}",
+        "match_exact": false
+      },
+      {
+        "type": "obscure_tooltips:nbt",
+        "nbt": "{WaifingUpgrades:{Rebirths:20}}",
+        "match_exact": false
+      },
+      {
+        "type": "obscure_tooltips:nbt",
+        "nbt": "{WaifingUpgrades:{Rebirths:21}}",
+        "match_exact": false
+      },
+      {
+        "type": "obscure_tooltips:nbt",
+        "nbt": "{WaifingUpgrades:{Rebirths:22}}",
+        "match_exact": false
+      },
+      {
+        "type": "obscure_tooltips:nbt",
+        "nbt": "{WaifingUpgrades:{Rebirths:23}}",
+        "match_exact": false
+      },
+      {
+        "type": "obscure_tooltips:nbt",
+        "nbt": "{WaifingUpgrades:{Rebirths:24}}",
+        "match_exact": false
+      },
+      {
+        "type": "obscure_tooltips:nbt",
+        "nbt": "{WaifingUpgrades:{Rebirths:25}}",
+        "match_exact": false
+      },
+      {
+        "type": "obscure_tooltips:nbt",
+        "nbt": "{WaifingUpgrades:{Rebirths:26}}",
+        "match_exact": false
+      },
+      {
+        "type": "obscure_tooltips:nbt",
+        "nbt": "{WaifingUpgrades:{Rebirths:27}}",
+        "match_exact": false
+      },
+      {
+        "type": "obscure_tooltips:nbt",
+        "nbt": "{WaifingUpgrades:{Rebirths:28}}",
+        "match_exact": false
+      },
+      {
+        "type": "obscure_tooltips:nbt",
+        "nbt": "{WaifingUpgrades:{Rebirths:29}}",
+        "match_exact": false
+      },
+      {
+        "type": "obscure_tooltips:nbt",
+        "nbt": "{WaifingUpgrades:{Rebirths:30}}",
+        "match_exact": false
+      },
+      {
+        "type": "obscure_tooltips:nbt",
+        "nbt": "{WaifingUpgrades:{Rebirths:31}}",
+        "match_exact": false
+      },
+      {
+        "type": "obscure_tooltips:nbt",
+        "nbt": "{WaifingUpgrades:{Rebirths:32}}",
+        "match_exact": false
+      },
+      {
+        "type": "obscure_tooltips:nbt",
+        "nbt": "{WaifingUpgrades:{Rebirths:33}}",
+        "match_exact": false
+      },
+      {
+        "type": "obscure_tooltips:nbt",
+        "nbt": "{WaifingUpgrades:{Rebirths:34}}",
+        "match_exact": false
+      },
+      {
+        "type": "obscure_tooltips:nbt",
+        "nbt": "{WaifingUpgrades:{Rebirths:35}}",
+        "match_exact": false
+      },
+      {
+        "type": "obscure_tooltips:nbt",
+        "nbt": "{WaifingUpgrades:{Rebirths:36}}",
+        "match_exact": false
+      },
+      {
+        "type": "obscure_tooltips:nbt",
+        "nbt": "{WaifingUpgrades:{Rebirths:37}}",
+        "match_exact": false
+      },
+      {
+        "type": "obscure_tooltips:nbt",
+        "nbt": "{WaifingUpgrades:{Rebirths:38}}",
+        "match_exact": false
+      },
+      {
+        "type": "obscure_tooltips:nbt",
+        "nbt": "{WaifingUpgrades:{Rebirths:39}}",
+        "match_exact": false
+      },
+      {
+        "type": "obscure_tooltips:nbt",
+        "nbt": "{WaifingUpgrades:{Rebirths:40}}",
+        "match_exact": false
+      },
+      {
+        "type": "obscure_tooltips:nbt",
+        "nbt": "{WaifingUpgrades:{Rebirths:41}}",
+        "match_exact": false
+      },
+      {
+        "type": "obscure_tooltips:nbt",
+        "nbt": "{WaifingUpgrades:{Rebirths:42}}",
+        "match_exact": false
+      },
+      {
+        "type": "obscure_tooltips:nbt",
+        "nbt": "{WaifingUpgrades:{Rebirths:43}}",
+        "match_exact": false
+      },
+      {
+        "type": "obscure_tooltips:nbt",
+        "nbt": "{WaifingUpgrades:{Rebirths:44}}",
+        "match_exact": false
+      },
+      {
+        "type": "obscure_tooltips:nbt",
+        "nbt": "{WaifingUpgrades:{Rebirths:45}}",
+        "match_exact": false
+      },
+      {
+        "type": "obscure_tooltips:nbt",
+        "nbt": "{WaifingUpgrades:{Rebirths:46}}",
+        "match_exact": false
+      },
+      {
+        "type": "obscure_tooltips:nbt",
+        "nbt": "{WaifingUpgrades:{Rebirths:47}}",
+        "match_exact": false
+      },
+      {
+        "type": "obscure_tooltips:nbt",
+        "nbt": "{WaifingUpgrades:{Rebirths:48}}",
+        "match_exact": false
+      },
+      {
+        "type": "obscure_tooltips:nbt",
+        "nbt": "{WaifingUpgrades:{Rebirths:49}}",
+        "match_exact": false
+      },
+      {
+        "type": "obscure_tooltips:nbt",
+        "nbt": "{WaifingUpgrades:{Rebirths:50}}",
+        "match_exact": false
+      },
+      {
+        "type": "obscure_tooltips:nbt",
+        "nbt": "{WaifingUpgrades:{Rebirths:51}}",
+        "match_exact": false
+      },
+      {
+        "type": "obscure_tooltips:nbt",
+        "nbt": "{WaifingUpgrades:{Rebirths:52}}",
+        "match_exact": false
+      },
+      {
+        "type": "obscure_tooltips:nbt",
+        "nbt": "{WaifingUpgrades:{Rebirths:53}}",
+        "match_exact": false
+      },
+      {
+        "type": "obscure_tooltips:nbt",
+        "nbt": "{WaifingUpgrades:{Rebirths:54}}",
+        "match_exact": false
+      },
+      {
+        "type": "obscure_tooltips:nbt",
+        "nbt": "{WaifingUpgrades:{Rebirths:55}}",
+        "match_exact": false
+      },
+      {
+        "type": "obscure_tooltips:nbt",
+        "nbt": "{WaifingUpgrades:{Rebirths:56}}",
+        "match_exact": false
+      },
+      {
+        "type": "obscure_tooltips:nbt",
+        "nbt": "{WaifingUpgrades:{Rebirths:57}}",
+        "match_exact": false
+      },
+      {
+        "type": "obscure_tooltips:nbt",
+        "nbt": "{WaifingUpgrades:{Rebirths:58}}",
+        "match_exact": false
+      },
+      {
+        "type": "obscure_tooltips:nbt",
+        "nbt": "{WaifingUpgrades:{Rebirths:59}}",
+        "match_exact": false
+      },
+      {
+        "type": "obscure_tooltips:nbt",
+        "nbt": "{WaifingUpgrades:{Rebirths:60}}",
+        "match_exact": false
+      },
+      {
+        "type": "obscure_tooltips:nbt",
+        "nbt": "{WaifingUpgrades:{Rebirths:61}}",
+        "match_exact": false
+      },
+      {
+        "type": "obscure_tooltips:nbt",
+        "nbt": "{WaifingUpgrades:{Rebirths:62}}",
+        "match_exact": false
+      },
+      {
+        "type": "obscure_tooltips:nbt",
+        "nbt": "{WaifingUpgrades:{Rebirths:63}}",
+        "match_exact": false
+      },
+      {
+        "type": "obscure_tooltips:nbt",
+        "nbt": "{WaifingUpgrades:{Rebirths:64}}",
+        "match_exact": false
+      }
+    ]
+  }
+}
